@@ -17,17 +17,17 @@ Summary : It is a web development project using ASP.NET MVC . This our 3rd year 
 * Admin manages the orders
 
 ## Project Demo : 
-<img src="./S_Shots/1.png" width="400" height="400" title="" /> <img src="./S_Shots/2.png" width="400" height="400" title="" />
+<img src="./S_Shots/1.PNG" width="400" height="400" title="" /> <img src="./S_Shots/2.PNG" width="400" height="400" title="" />
 
-<img src="./S_Shots/3.png" width="400" height="400" title="" /> <img src="./S_Shots/4.png" width="400" height="400" title="" />
+<img src="./S_Shots/3.PNG" width="400" height="400" title="" /> <img src="./S_Shots/4.PNG" width="400" height="400" title="" />
 
-<img src="./S_Shots/5.png" width="400" height="400" title="" /> <img src="./S_Shots/6.png" width="400" height="400" title="" />
+<img src="./S_Shots/5.PNG" width="400" height="400" title="" /> <img src="./S_Shots/6.PNG" width="400" height="400" title="" />
 
-<img src="./S_Shots/7.png" width="400" height="400" title="" /> <img src="./S_Shots/8.png" width="400" height="400" title="" />
+<img src="./S_Shots/7.PNG" width="400" height="400" title="" /> <img src="./S_Shots/8.PNG" width="400" height="400" title="" />
 
-<img src="./S_Shots/9.png" width="400" height="400" title="" /> <img src="./S_Shots/10.png" width="400" height="400" title="" />
+<img src="./S_Shots/9.PNG" width="400" height="400" title="" /> <img src="./S_Shots/10.PNG" width="400" height="400" title="" />
 
-<img src="./S_Shots/11.png" width="400" height="400" title="" /> <img src="./S_Shots/12.png" width="400" height="400" title="" />
+<img src="./S_Shots/11.PNG" width="400" height="400" title="" /> <img src="./S_Shots/12.PNG" width="400" height="400" title="" />
 
 
 
